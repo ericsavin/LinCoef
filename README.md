@@ -10,7 +10,7 @@ Codes are also provided to compute Gauss quadrature sets and evaluate those poly
 nodes. The main function to construct quadrature sets is `GNodeWt.m`.
 
 These codes have been developed at [Onera](http://www.onera.fr) (Computational Fluid Dynamics Dept.). They are developed
-for [MATLAB](http://www.mathworks.com/products/matlab/). The codes have not been extensively tested, but should run on Matlab 
+for [Matlab](http://www.mathworks.com/products/matlab/). The codes have not been extensively tested, but should run on Matlab 
 versions R2013a and newer.
 
 * contact : [Eric Savin](mailto:eric.savin@onera.fr)
