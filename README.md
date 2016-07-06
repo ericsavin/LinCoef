@@ -4,7 +4,7 @@ Compute the linearization coefficients of classical orthogonal polynomials
 ## PRESENTATION
 
 The main function `LinCoef.m` computes the linearization coefficients for products of classical orthogonal polynomials
-of the Jacobi (including Gegenbauer, Legendre and Chebyshev), generalized Hermite, and generalized Laguerre families.
+of the __Jacobi__ (including Gegenbauer, Legendre and Chebyshev), __generalized Hermite__, and __generalized Laguerre__ families.
 These linearization coefficients correspond to the third-order moments of these polynomial sets.
 Codes are also provided to compute Gauss quadrature sets and evaluate those polynomials and their derivatives at specific
 nodes. The main function to construct quadrature sets is `GNodeWt.m`.
