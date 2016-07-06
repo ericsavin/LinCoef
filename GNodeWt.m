@@ -1,5 +1,5 @@
 function [Xinter,Winter] = GNodeWt(NN,alpha,beta,TYPE)
-% Compute Gauss quadrature points from Jacobi, Hermite and Laguerre polynomials
+% Compute Gauss quadrature sets from Jacobi, Hermite and Laguerre polynomials
 %
 % INPUT ---
 % NN          : order of interpolation. N1 = NN+1 is the number of points
@@ -11,7 +11,7 @@ function [Xinter,Winter] = GNodeWt(NN,alpha,beta,TYPE)
 % Xinter      : N1 quadratures nodes 
 % Winter      : N1 quadrature weights
 %
-% ESavin / April 2016 / eric.savin@onera.fr
+% ESavin / March 2016 / eric.savin@onera.fr
 %
 % Licensing: This code is distributed under the CeCILL-C license.
 %
@@ -19,7 +19,7 @@ function [Xinter,Winter] = GNodeWt(NN,alpha,beta,TYPE)
 N1 = NN+1;
 N2 = 2.*NN;
 
-if (alpha==-0.5 & beta==alpha) % Chebyshev quadratures using exact formulae
+if (alpha==-0.5 & beta==alpha) % Chebyshev quadratures using exact formula
  
    IJ = (0:NN)';
    switch TYPE
