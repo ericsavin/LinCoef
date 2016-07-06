@@ -1,5 +1,4 @@
 function [gamu] = GaMu(n,alpha)
-
 % Evaluate a special function for the linearization coefficients
 % of Hermite polynomials
 %
@@ -11,3 +10,4 @@ m    = floor(n/2);
 gamu = power(2,n).*factorial(m).*pochhammer(alpha+0.5,m+ip);
 
 return;
+
