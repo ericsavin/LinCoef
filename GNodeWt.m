@@ -5,7 +5,7 @@ function [Xinter,Winter] = GNodeWt(NN,alpha,beta,TYPE)
 % NN          : order of interpolation. N1 = NN+1 is the number of points
 % alpha, beta : parameters of the probability law
 % TYPE        : type of polynomials
-%               [JAC: Jacobi, GEG: Gegenbauer, LAG: Laguerre, HER: Hermite]
+%               [JAC: Jacobi, LAG: Laguerre, HER: Hermite]
 %
 % OUTPUT --
 % Xinter      : N1 quadratures nodes 
