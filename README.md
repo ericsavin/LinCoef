@@ -18,7 +18,7 @@ versions R2013a and newer.
 
 ## REFERENCE
 
-B. Faverjon, E. Savin. Computation of higher-order moments of generalized polynomial chaos expansions. Preprint, 2016.
+[B. Faverjon, E. Savin. Computation of higher-order moments of generalized polynomial chaos expansions. arXiv:1607.01914, 2016.](https://arxiv.org/abs/1607.01914)
 
 ## USE
 
