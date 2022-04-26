@@ -17,7 +17,7 @@ versions R2013a and newer.
 
 ## REFERENCE
 
-$ [É. Savin, B. Faverjon. Computation of higher-order moments of generalized polynomial chaos expansions. arXiv:1607.01914, 2016.](https://arxiv.org/abs/1607.01914)
+<> [É. Savin, B. Faverjon. Computation of higher-order moments of generalized polynomial chaos expansions. arXiv:1607.01914, 2016.](https://arxiv.org/abs/1607.01914)
 
 [É. Savin, B. Faverjon. Higher-order moments of generalized polynomial chaos expansions for intrusive and non-intrusive uncertainty quantification. AIAA Paper \#2017-0597 (2017).](https://doi.org/10.2514/6.2017-0597)
 
