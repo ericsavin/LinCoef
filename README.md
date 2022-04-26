@@ -9,15 +9,15 @@ These linearization coefficients correspond to the third-order moments of polyno
 Codes are also provided to compute Gauss quadrature sets and evaluate those polynomials and their derivatives at specific
 nodes. The main function to construct quadrature sets is `GNodeWt.m`.
 
-These codes have been developed at [Onera](http://www.onera.fr) (Computational Fluid Dynamics Dept.) for [Matlab](http://www.mathworks.com/products/matlab/). They have not been extensively tested, but should run on Matlab 
+These codes have been developed at [ONERA](http://www.onera.fr) ([Computational Fluid Dynamics Dept.](https://www.onera.fr/en/daaa)) for [Matlab](http://www.mathworks.com/products/matlab/). They have not been extensively tested, but should run on Matlab 
 versions R2013a and newer.
 
-* contact : [Eric Savin](mailto:eric.savin@onera.fr)
-* contributors (by order of first commit): E. Savin
+* contact : [Éric Savin](mailto:eric.savin@onera.fr)
+* contributors (by order of first commit): É. Savin
 
 ## REFERENCE
 
-[E. Savin, B. Faverjon. Computation of higher-order moments of generalized polynomial chaos expansions. arXiv:1607.01914, 2016.](https://arxiv.org/abs/1607.01914)
+[É. Savin, B. Faverjon. Computation of higher-order moments of generalized polynomial chaos expansions. arXiv:1607.01914, 2016.](https://arxiv.org/abs/1607.01914)
 
 ## USE
 
